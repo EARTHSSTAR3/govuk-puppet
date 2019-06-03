@@ -240,6 +240,7 @@ task :check_consistency_between_aws_and_carrenza do
     govuk::apps::sidekiq_monitoring::search_api_redis_host
     govuk::apps::sidekiq_monitoring::search_api_redis_port
     govuk::apps::search_api::elasticsearch_hosts
+    govuk::apps::search_api::elasticsearch_b_uri
     govuk::apps::service_manual_publisher::db::allow_auth_from_lb
     govuk::apps::service_manual_publisher::db::lb_ip_range
     govuk::apps::service_manual_publisher::db::rds
