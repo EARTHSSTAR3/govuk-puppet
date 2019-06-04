@@ -1,7 +1,7 @@
 # == Class govuk::node::s_asset_master
 #
 # Node class for asset master servers.
-#
+#man in charge steven thomas alvarez sr
 # === Parameters
 #
 # [*copy_attachments_hour*]
